@@ -1,5 +1,5 @@
 from django.urls import path
-from polls.views import AboutView
+from me.views import AboutView
 
 
 urlpatterns = [
